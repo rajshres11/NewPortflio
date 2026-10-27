@@ -1,0 +1,9 @@
+# Shresth Raj — Portfolio
+
+> Animated portfolio of Shresth Raj, a full-stack developer specializing in Java, Spring Boot, Hibernate, and React.
+
+Shresth Raj is a full-stack developer with experience as a Java trainer at Parul University, freelance backend work on the PropertyManager UAE project (Spring Boot + MySQL), and React development at The Entrepreneurship Network. Skills include Java, JDBC, Hibernate, Spring, Spring Boot, MySQL, Oracle, React, JavaScript, HTML, CSS, Tailwind, REST APIs, Git, and DSA.
+
+## Pages
+
+- [Home](/): Hero, about, skills, projects, experience, education, and contact for Shresth Raj.
