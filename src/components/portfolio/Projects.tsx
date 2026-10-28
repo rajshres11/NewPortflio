@@ -53,6 +53,21 @@ const projects: Project[] = [
     accent: "from-accent/40 via-primary/30 to-transparent",
     thumb: resumeShot,
   },
+  {
+    title: "LearnHall Study Platform",
+    desc: "A learning platform for practical skills, with focused courses, clear lessons, and learner progress.",
+    long: "LearnHall brings a course catalogue, lessons, and enrollment tracking together in one study experience. Learners can explore courses, enroll, follow lesson content, and keep track of their progress.",
+    href: "https://learnhall-study.vercel.app/",
+    tags: ["React", "Education", "Vercel"],
+    stack: ["React", "Vite", "JavaScript"],
+    highlights: [
+      "Browse focused courses and enroll to learn",
+      "Follow course lessons in one place",
+      "Track active and completed enrollments",
+    ],
+    n: "03",
+    accent: "from-primary/30 via-accent/40 to-transparent",
+  },
 ];
 
 function ProjectMock({ title, href, accent, thumb }: { title: string; href: string; accent: string; thumb?: string }) {
