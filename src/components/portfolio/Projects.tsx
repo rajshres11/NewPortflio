@@ -3,6 +3,7 @@ import { ArrowUpRight, ExternalLink, Github, X } from "lucide-react";
 import { useState } from "react";
 import influencerShot from "@/assets/influencer-marketing.png";
 import resumeShot from "@/assets/resume-builder.png";
+import learnhallShot from "@/assets/learnhall-preview.png";
 
 type Project = {
   title: string;
@@ -67,6 +68,7 @@ const projects: Project[] = [
     ],
     n: "03",
     accent: "from-primary/30 via-accent/40 to-transparent",
+    thumb: learnhallShot,
   },
 ];
 
