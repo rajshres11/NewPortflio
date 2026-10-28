@@ -56,11 +56,11 @@ const projects: Project[] = [
   },
   {
     title: "LearnHall Study Platform",
-    desc: "A learning platform for practical skills, with focused courses, clear lessons, and learner progress.",
-    long: "LearnHall brings a course catalogue, lessons, and enrollment tracking together in one study experience. Learners can explore courses, enroll, follow lesson content, and keep track of their progress.",
+    desc: "A full-stack study platform built with Spring Boot, Spring Security, JWT, and MySQL, with a Vercel frontend and a Render backend. Swagger and ngrok support API testing. Backend features may be temporarily unavailable when my server or ngrok tunnel is offline.",
+    long: "LearnHall brings a course catalogue, lessons, and enrollment tracking together in one study experience. Its frontend is deployed on Vercel, with a Spring Boot backend using Spring Security, JWT authentication, and MySQL, hosted on Render. Swagger and ngrok are used to test the API. Backend-powered features may be temporarily unavailable when the server or ngrok tunnel is not running.",
     href: "https://learnhall-study.vercel.app/",
-    tags: ["React", "Education", "Vercel"],
-    stack: ["React", "Vite", "JavaScript"],
+    tags: ["Spring Boot", "Spring Security", "MySQL", "Vercel"],
+    stack: ["React", "Spring Boot", "Spring Security", "JWT", "MySQL", "Vercel", "Render", "ngrok", "Swagger"],
     highlights: [
       "Browse focused courses and enroll to learn",
       "Follow course lessons in one place",
